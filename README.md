@@ -22,3 +22,14 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+git branch  ：ブランチの確認
+
+git branch <ブランチ名>　：ブランチ作成
+
+<ブランチ名>は
+master
+develop
+feature/<機能の名前、そのブランチですること>
+
+git chekout <ブランチ名>  ：ブランチの移動
