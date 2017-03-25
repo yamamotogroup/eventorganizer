@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  chat_title: MyString
+  chat_time: 2017-03-25 06:43:04
+  chat_content: MyText
+
+two:
+  chat_title: MyString
+  chat_time: 2017-03-25 06:43:04
+  chat_content: MyText

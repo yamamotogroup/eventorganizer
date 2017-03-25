@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  event_title: MyString
+  schedule: 2017-03-25
+  place: MyString
+  event_time: 2017-03-25 06:41:55
+  group_id: 1
+
+two:
+  event_title: MyString
+  schedule: 2017-03-25
+  place: MyString
+  event_time: 2017-03-25 06:41:55
+  group_id: 1
